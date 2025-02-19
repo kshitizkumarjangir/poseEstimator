@@ -1,4 +1,4 @@
-# poseEstimator - WIP
+# poseEstimator
  
  Estimates pose points from webcam feed
  
